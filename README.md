@@ -2,6 +2,9 @@
 
 ## 🚀 Data Engineer focusing on ETL pipelines
 📍 **Dublin**  
+
+<img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" width="300" alt="Description of the image">
+
 <!-- 📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)   -->
 🔗 **LinkedIn:** [Nikhil](https://linkedin.com/in/sajals)  
 👨‍💻 **GitHub:** [NikhilSalv](https://github.com/NikhilSalv)
