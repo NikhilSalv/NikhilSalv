@@ -7,7 +7,8 @@
 
 <!-- 📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)   -->
 🔗 **LinkedIn:** [Nikhil](https://linkedin.com/in/sajals)  
-👨‍💻 **GitHub:** [NikhilSalv](https://github.com/NikhilSalv)
+👨‍💻 **GitHub:** [NikhilSalv](https://github.com/NikhilSalv)<br>
+🔔 **Instagram:** [TechnocratinDublin](https://www.instagram.com/technocratindublin/)
 
 
 ### About Me 🌐
