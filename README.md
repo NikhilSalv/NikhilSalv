@@ -4,7 +4,7 @@
 📍 **Dublin**  
 
 <p align="right">
-  ![aws-certified-data-engineer-associate](https://github.com/NikhilSalv/NikhilSalv/assets/74225565/f2383fe0-8ff7-4b3c-9df3-6c33d8cc770a)
+  <img src="[https://github.com/NikhilSalv/NikhilSalv/assets/74225565/f2383fe0-8ff7-4b3c-9df3-6c33d8cc770a](https://github.com/NikhilSalv/NikhilSalv/blob/main/aws-certified-data-engineer-associate.png)" width="300" alt="Description of the image">
 </p>
 
 
