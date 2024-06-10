@@ -14,7 +14,7 @@
       🔔 **Instagram:** [TechnocratinDublin](https://www.instagram.com/technocratindublin/)
     </td>
     <td>
-      <img src="https://github.com/NikhilSalv/NikhilSalv/blob/main/aws-certified-data-engineer-associate.png?raw=true" width="100" alt="AWS Certification">
+      <img src="https://github.com/NikhilSalv/NikhilSalv/blob/main/aws-certified-data-engineer-associate.png?raw=true" width="170" alt="AWS Certification">
     </td>
   </tr>
 </table>
