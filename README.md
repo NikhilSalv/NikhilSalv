@@ -4,9 +4,8 @@
 📍 **Dublin**  
 
 <p align="right">
-  <img src="[https://github.com/NikhilSalv/NikhilSalv/assets/74225565/f2383fe0-8ff7-4b3c-9df3-6c33d8cc770a](https://github.com/NikhilSalv/NikhilSalv/blob/main/aws-certified-data-engineer-associate.png)" width="300" alt="Description of the image">
+  <img src="https://github.com/NikhilSalv/NikhilSalv/blob/main/aws-certified-data-engineer-associate.png?raw=true" width="300" alt="Description of the image">
 </p>
-
 
 <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" align="right" width="300" alt="Description of the image">
 <!-- 📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)   -->
