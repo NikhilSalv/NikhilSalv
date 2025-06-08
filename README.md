@@ -1,7 +1,12 @@
 # 👋 Hello, I'm Nikhil!
 
-## 🚀 Data Engineer focusing on ETL pipelines
+<p align="center"><strong>Code. Deploy. Repeat.</strong></p>
+
+## 🚀 Software Developer passionate about merging creativity with code.
 📍 **Dublin**  
+
+
+
 
 <table>
   <tr>
