@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Nikhil!
 
-<p align="center"><strong>Code. Deploy. Repeat.</strong></p>
+<p align="center"><strong> Code | Deploy | Repeat </strong></p>
 
 ## 🚀 Software Developer passionate about merging creativity with code.
 📍 **Dublin**  
@@ -13,7 +13,7 @@
     <td>
       <!-- Your text content here -->
       <!-- 📧 **Email:** [contact@sajalsharma.com](mailto:contact@sajalsharma.com)   -->
-      👨🏻‍🎓 **Portfolio:** [What am I..](https://nikhilsalv.github.io/PortfolioGitHubPage/)<br> 
+      👨🏻‍🎓 ** Portfolio: ** [What am I..](https://nikhilsalv.github.io/PortfolioGitHubPage/)<br> 
       🔗 **LinkedIn:** [Nikhil](https://linkedin.com/in/nikhil-salvi)<br>
       👨‍💻 **GitHub:** [NikhilSalv](https://github.com/NikhilSalv)<br>
       🔔 **Instagram:** [TechnocratinDublin](https://www.instagram.com/technocratindublin/)
