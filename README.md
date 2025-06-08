@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Nikhil!
+<p align="center"> # 👋 Hello, I'm Nikhil! </p>
 
 <p align="center" style="
   background-color: #FFA500;
