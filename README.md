@@ -8,7 +8,7 @@
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coffeencali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-salvi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFD700.svg?logo=linkedin&logoColor=white)](https://nikhilsalv.github.io/PortfolioGitHubPage/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFD700.svg?logo=linkedin&logoColor=white)](https://my-react-portfolio1-fd9874072225.herokuapp.com/)
 
 
 
